@@ -153,7 +153,7 @@ Open a **new terminal window** and launch our Samsung One UI inspired frontend:
 ```bash
 streamlit run streamlit_app.py
 ```
-*A browser window will open automatically. You can enter colloquial complaints (e.g., "My touchscreen is laggy") to see the pipeline resolve the issue live.*
+*A browser window will open automatically. You can enter colloquial complaints (e.g., "My screen is Blank.") to see the pipeline resolve the issue live.*
 
 ### 4. Run via Docker (Clean Containerization)
 To meet the core engineering challenge for containerization, a `Dockerfile` is included:
